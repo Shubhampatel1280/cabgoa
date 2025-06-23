@@ -164,11 +164,11 @@ footer {
     font-size: 1.3em;
   }
 
+  /* 👇 Modified to make places stack vertically */
   .places-grid {
-  grid-template-columns: 1fr;
-  gap: 16px;
-}
-
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
 
   .place img {
     max-height: 100px;
