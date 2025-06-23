@@ -165,9 +165,10 @@ footer {
   }
 
   .places-grid {
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
-  }
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
 
   .place img {
     max-height: 100px;
